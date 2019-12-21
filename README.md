@@ -3,7 +3,8 @@ A very simple Spigot Plugin that stops players from trampling crops.
 
 
 **Minecraft Versions:**
-This Plugin should work with every Version from 1.7-1.15.
+This plugin should work with every version from 1.7-1.15.
+You can use every spigot based server version (Thermos, CatServer, ...).
 
-**Server Versions:**
-The plugin works on Spigot, Thermos, CatServer and many other Spigot Forks.
+**SpigotMC:** https://www.spigotmc.org/resources/simplenocroptrample.73609/
+**Releases:** https://github.com/UeberallGebannt/SimpleNoCropTrample/releases/
