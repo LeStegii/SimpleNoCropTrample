@@ -1,0 +1,7 @@
+name: SimpleNoCropTrample
+version: 1.0
+main: net.KettleMC.NoCropTrample.Main
+website: KettleModpacks.site
+author: KettleMC
+commands:
+  
