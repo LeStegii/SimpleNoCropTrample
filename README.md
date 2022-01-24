@@ -1,4 +1,7 @@
-# SimpleNoCropTrample
+# Do not use. Please visit [this repository](https://github.com/KettleMC-Network/SimpleNoCropTrample) for an updated version!
+
+
+## SimpleNoCropTrample
 A very simple Spigot Plugin that stops players from trampling crops.
 
 
